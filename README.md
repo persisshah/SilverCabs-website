@@ -4,5 +4,6 @@ Developed and Built number of pages using HTML, CSS, JAVASCRIPT, which displayed
 
 Implemented new HTML5 features like video on the homepage.
 
-Developed sign up and login page using PHP and MYSQL. Worked with open source platform, Xampp Server.
+Developed sign up and login page using PHP and MYSQL. 
+Worked with open source platform, Xampp Server.
 
